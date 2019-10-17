@@ -1,11 +1,7 @@
 # Machine Learning for Absolute Beginners
 
-Machine learning talk on 2019-10-16.
+Machine learning talk on 2019-11-21.
 
-### Running Jupyter Notebook 
-
-TODO
-
-### Producing Slides
+### Running the Notebooks
 
 TODO
