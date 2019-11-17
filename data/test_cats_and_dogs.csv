@@ -1,0 +1,3 @@
+name,filename,animal,spectral_centroid,zero_crossing_rate
+cat,../data/test/cat.wav,cat,2273.977802748934,0.15452223557692307
+dog,../data/test/dog.wav,dog,1156.9782089720989,0.07911551339285713
