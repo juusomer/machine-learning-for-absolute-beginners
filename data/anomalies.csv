@@ -1,0 +1,3 @@
+name,filename,animal,spectral_centroid,zero_crossing_rate
+bark,../data/anomalies/bark.wav,cat,1718.1058691969213,0.3044299450549451
+meow,../data/anomalies/meow.wav,cat,3216.5331892392223,0.28134191176470585
